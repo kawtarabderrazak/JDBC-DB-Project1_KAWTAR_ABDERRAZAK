@@ -24,5 +24,5 @@ Java JDK
 NetBeans ou un autre IDE Java
 MySQL installé et configuré
 Pilote JDBC pour MySQL (inclus dans le projet)
-##https://github.com/user-attachments/assets/00a02a61-dec4-4b10-a401-20d4aa318d5c
+https://github.com/user-attachments/assets/00a02a61-dec4-4b10-a401-20d4aa318d5c
 
